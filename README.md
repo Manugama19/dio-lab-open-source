@@ -75,7 +75,10 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 ---
 
 ## Contribua
-[![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
+[![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)github/blob/in/ateriais-de-apsia/83-primeiros-passes-con-git-e-gith
+Resumão e Explicação Sobre a Automação dos PRs
+4. Crie una nova ranch e nomele como "Fest/community/seuromedessuaria]["git checkout -b Fest/community/seuromedessuaria"]
+    >Exemplo: git checkout Fest/community/elidianaand
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
 [![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
 
